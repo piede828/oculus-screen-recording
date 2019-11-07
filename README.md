@@ -8,3 +8,5 @@ At the moment, the application records the desktop but have plan to allow you to
 
 I think being able to record clips of gameplay from VR is a must and thought of sharing this.
 It's still a rough version so hope to get some feedback!
+
+The recording is currently done by using FFMPEG, which is included in the zip file.

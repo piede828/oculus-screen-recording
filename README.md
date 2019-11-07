@@ -1,4 +1,4 @@
-# oculus-screen-recording
+# Oculus Rift MP4/GIF VR Recorder
 This a tool that allows you to record mp4 or animated gif of the Oculus gameplay *from VR*, no need to take the headset off.
 
 The recording is currently activated by pressing the A button and stopped by pressing the B button.
